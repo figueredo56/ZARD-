@@ -1,4 +1,4 @@
-[ZARD](https://raw.githubusercontent.com/figueredo56/ZARD-/refs/heads/main/290%20sin%20t%C3%ADtulo_20260925234747.png)
+![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD-/refs/heads/main/290%20sin%20t%C3%ADtulo_20260925234747.png)
 ZARD mística
 `0x23208dd1b95914677f2d54906b86eed05c2519eb`
 
