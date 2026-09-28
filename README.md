@@ -1,10 +1,9 @@
 ZARD mística
-`0x08ad127fbe02177532e5e278466bb4fe461a0718`
+`0x23208dd1b95914677f2d54906b86eed05c2519eb`
 
 ## 🌐 Our Official Digital Presence
 
-Stay connected with the true source of ZAARD innovation.
-
+Stay connected with the true source of ZAARD innovation
 * **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
 * **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
