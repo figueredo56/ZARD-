@@ -1,4 +1,4 @@
-![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD-/refs/heads/main/290%20sin%20t%C3%ADtulo_20260925234747.png)
+![ZARD](https://photos.pinksale.finance/file/pinksale-logo-upload/1790632703567-2b0a1ede74dd019149a93fd685a93c36.png)
 
 ZARD
 `0x62a6d58cbcf24932ae5ec2c233720487407d2ed3`
