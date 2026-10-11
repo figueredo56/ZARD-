@@ -2,7 +2,7 @@
 ![ZARD](https://photos.pinksale.finance/file/pinksale-logo-upload/1790632703567-2b0a1ede74dd019149a93fd685a93c36.png)![ZARD](https://raw.githubusercontent.com/figueredo56/ZARD.token/ab5ba9b45b8275e1547c026be754e77828a073a0/228-sin-t%C3%ADtulo_20260824215207%20(1).svg)
 
 ZARD
-`0x472d59538effe1c85382e3e62e1b2ec995d382ef`
+`0xd4fe1d27068af6ea0799e49b139000a6b72c66d5`
 
 ## 🌐 Our Official Digital Presence
 
