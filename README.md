@@ -44,16 +44,9 @@ Infraestructura inteligente desplegada con los más altos estándares de segurid
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1790817451489-015175f1d6de0d2af4093c0e175f274d.png" width="30%" style="margin: 5px;" alt="NFT Asset 3">
 </div>
 
-### 📊 **Indicadores de Rendimiento del Sistema**
-
-```text
-[████████████████████] 100% Liquidez Descentralizada & Pools BSC
-[████████████████░░░░]  80% Integración Multi-Plataforma DApps & Arcade
-[██████████████████░░]  90% Blindaje de Seguridad XENOCRYPT
-[████████████████████] 100% Resguardo On-Chain & Transparencia Total
-
 </div>
 ---
+
 ---
 ## 🛡️ Auditoría, Seguridad y Monitoreo On-Chain
 
@@ -92,3 +85,13 @@ La seguridad del contrato inteligente `$ZARD` ha sido verificada por proveedores
   <p>© 2026 - Todos los derechos reservados</p>
 
 </div>
+### 📊 **Indicadores de Rendimiento del Sistema**
+
+```text
+[████████████████████] 100% Liquidez Descentralizada & Pools BSC
+[████████████████░░░░]  80% Integración Multi-Plataforma DApps & Arcade
+[██████████████████░░]  90% Blindaje de Seguridad XENOCRYPT
+[████████████████████] 100% Resguardo On-Chain & Transparencia Total```
+
+
+
