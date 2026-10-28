@@ -1,3 +1,4 @@
+https://console.gopluslabs.io/token-security/56/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38
 <div align="center">
 
 # ⚡🔥 ZAARD INNOVATION | PANGA ECOSYSTEM 🔥⚡
@@ -50,3 +51,44 @@ Infraestructura inteligente desplegada con los más altos estándares de segurid
 [████████████████░░░░]  80% Integración Multi-Plataforma DApps & Arcade
 [██████████████████░░]  90% Blindaje de Seguridad XENOCRYPT
 [████████████████████] 100% Resguardo On-Chain & Transparencia Total
+
+</div>
+---
+---
+## 🛡️ Auditoría, Seguridad y Monitoreo On-Chain
+
+La seguridad del contrato inteligente `$ZARD` ha sido verificada por proveedores líderes en análisis de código estático y dinámica de red:
+
+* 🔍 **GoPlus Labs Security:** [Reporte de Auditoría de Contrato](https://console.gopluslabs.io/token-security/56/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+* 🛡️ **Token Sniffer Analysis:** [Verificación de Seguridad & Riegos](https://tokensniffer.com/token/bsc/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+* 📈 **DexView Analytics:** [Gráfico de Trading y Libro de Órdenes](https://www.dexview.com/bsc/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+* 🥞 **PancakeSwap DEX:** [Intercambiar $ZARD en PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+
+---
+
+## 📄 Enlaces e Interfaces Oficiales
+
+* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+
+---
+
+## 👤 Equipo Core & Desarrollo
+
+* **Lead Blockchain Architect & Founder:** Panga
+* **Firma de Ingeniería Criptográfica:** XENOCRYPT
+* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
+---
+
+> **⚠️ Descargo de Responsabilidad (Disclaimer):**  
+> La interacción con contratos inteligentes, tokens criptográficos y protocolos DeFi conlleva riesgos inherentes debido a la volatilidad del mercado. Este documento tiene fines estrictamente técnicos e informativos. Realice siempre su propia investigación (*DYOR*) antes de interactuar con cualquier activo digital o piscina de liquidez.
+
+<div align="center">
+
+  <p><b>Diseñado y Desarrollado con Alta Ingeniería por XENOCRYPT para ZAARD INNOVATION</b></p>
+  <p>© 2026 - Todos los derechos reservados</p>
+
+</div>
