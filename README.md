@@ -30,8 +30,8 @@ Infraestructura inteligente desplegada con los más altos estándares de segurid
 | **Fundador / Lead Architect** | PANGA |
 | **Sello Tecnológico** | XENOCRYPT |
 | **Red Blockchain** | BNB Smart Chain (BEP-20) |
-| **Contrato Principal** | `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38` |
-| **Explorador Oficial** | [Auditar en BscScan](https://bscscan.com/address/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38) |
+| **Contrato Principal** | `0x824E1d6bF399FDd10992cd2b8F7adA0Fd6148c9c` |
+| **Explorador Oficial** | [Auditar en BscScan](https://bscscan.com/address/0x824E1d6bF399FDd10992cd2b8F7adA0Fd6148c9c) |
 | **Documentación / Whitepaper** | [Repositorio Técnico](https://github.com/figueredo56/zaard-tracker-bot) |
 
 ---
